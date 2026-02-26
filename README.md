@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Matthew Nderitu
 **A passionate Full-Stack Software Engineer**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **nderitumw17@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** RSS Financial News Feed
 - 🌱 **I’m currently learning:** NextJS, Postgresql
